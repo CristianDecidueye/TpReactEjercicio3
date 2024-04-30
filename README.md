@@ -27,7 +27,7 @@
 
 ## Tabla de contenido
 
-- [💻 Ejercicio 6](#💻-Ejercicio-6)
+- [💻 Ejercicio 3](#💻-Ejercicio-6)
 - [⚒️ Tecnologias](#⚒️-tecnologías-implementadas)
 - [✅ Requisitos](#✅requisitos)
 - [💿 Instalacion](#💿instalacion-y-uso)
