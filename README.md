@@ -1,25 +1,24 @@
 <!-- Proyect Logo -->
 <div align= "center">
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
-    <img src='https://lh3.googleusercontent.com/proxy/RqstwJgG8OUEvrDMw8LE8We7bBHDP-PyxgECbFOxx5HhwQ3CRpD7Gpf8GxE3c-p_9OL0UGB1MQf1UfmoenZMIBfO2GBhIwybQtWJHuBP9gLYs86n-XBS2Ln92f3Xmg' alt='Rolling ' width='300' />
+    <a href='https://tpreactejercicio3rolling.netlify.app'>
     </a>
     <h1>Ejercicio 3</h1>
     <p>
     <br>
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://tpreactejercicio3rolling.netlify.app'>
     <strong>Explorar pagina » </strong>
     </a>
     <br>
     <br>
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://tpreactejercicio3rolling.netlify.app'>
     Reportar un problema
     </a>
     ·
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://tpreactejercicio3rolling.netlify.app'>
     Solicitar una mejora
     </a>
     ·
-    <a href='https://ejercicio3-tp6-react.netlify.app'>
+    <a href='https://tpreactejercicio3rolling.netlify.app'>
     Soporte
     </a>
     </p>
@@ -27,7 +26,7 @@
 
 ## Tabla de contenido
 
-- [💻 Ejercicio 3](#💻-Ejercicio-6)
+- [💻 Ejercicio 3](#💻-Ejercicio-3)
 - [⚒️ Tecnologias](#⚒️-tecnologías-implementadas)
 - [✅ Requisitos](#✅requisitos)
 - [💿 Instalacion](#💿instalacion-y-uso)
