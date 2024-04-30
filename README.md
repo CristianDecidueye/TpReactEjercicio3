@@ -36,7 +36,7 @@
 - [📞 Contactanos](#📞-contactanos)
 - [📋 Licencia](#licencia)
 
-## 💻 Ejercicio 6
+## 💻 Ejercicio 3
 
 
 ## ⚒️ Tecnologías Implementadas
